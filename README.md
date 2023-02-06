@@ -1,6 +1,9 @@
-# Getting Started with Create React App
+# This is the website for a charity foundation called "Al-Together"
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## The website is developed with React.js using Sanity.io as backend CMS
+
+### The website is designed and developed independently by github.com/WaxifAlee
+### Developer: Wasif Ali [waxif.alee1@gmail.com]
 
 ## Available Scripts
 
